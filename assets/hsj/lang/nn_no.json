@@ -10,7 +10,7 @@
     "hsj:entombed": "Gravlagd auga",
     "hsj:forged": "Smidd auga",
     "hsj:golden": "Gullauga",
-    "hsj:ominous": "Røyneauga",
+    "hsj:ominous": "Illevarande auga",
     "hsj:opulent": "Drusteleg auga",
     "hsj:queens": "Dronningauga",
     "hsj:spellbound": "Trollbunde auga",
@@ -38,9 +38,9 @@
     "hsj:adv_forged_desc": "Skaff eit smidd auga frå ein meisterleg rustningsmed",
     "hsj:adv_golden_title": "Gullauga",
     "hsj:adv_golden_desc": "Finn eit gullauga i eit jungeltempel",
-    "hsj:adv_ominous_title": "Røyneauga",
-    "hsj:adv_ominous_desc": "Finn røyneauga frå eit røyneromskvelv",
-    "hsj:adv_opulent_title": "Drysteleg auga",
+    "hsj:adv_ominous_title": "Illevarande auga",
+    "hsj:adv_ominous_desc": "Finn eit illevarande auga frå eit røyneromskvelv",
+    "hsj:adv_opulent_title": "Drusteleg auga",
     "hsj:adv_opulent_desc": "Finn eit drusteleg auga i ei nedgravd kiste full av skattar",
     "hsj:adv_queens_title": "Dronningauga",
     "hsj:adv_queens_desc": "Finn dronningauga i ei biekube",
@@ -51,5 +51,5 @@
     "hsj:adv_root_desc": "Ei reise til Enden!",
 
     "hsj:eye_rejected": "Portalen fråstøytte seg auga... Mektigare auga krevjast...",
-    "hsj:loaded":"lasta!"
+    "hsj:loaded":"lasta inn!"
 }
