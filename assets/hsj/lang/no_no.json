@@ -10,8 +10,8 @@
     "hsj:entombed": "Gravlagt øye",
     "hsj:forged": "Smidd øye",
     "hsj:golden": "Gulløye",
-    "hsj:ominous": "Prøvelsesøye",
-    "hsj:opulent": "Drusteleg øye",
+    "hsj:ominous": "Illevarslende øye",
+    "hsj:opulent": "Praktfult øye",
     "hsj:queens": "Dronningøye",
     "hsj:spellbound": "Trollbundet øye",
     "hsj:withered": "Visnet øye",
@@ -38,10 +38,10 @@
     "hsj:adv_forged_desc": "Skaff ett smidd øye fra en mesterlig rustningssmed",
     "hsj:adv_golden_title": "Gulløye",
     "hsj:adv_golden_desc": "Finn ett gulløye i et jungeltempel",
-    "hsj:adv_ominous_title": "Prøvelsesøye",
-    "hsj:adv_ominous_desc": "Finn prøvelsesøye fra et prøvelseskammer-hvelv",
+    "hsj:adv_ominous_title": "Illevarslende søye",
+    "hsj:adv_ominous_desc": "Finn ett illevarslende øye fra et prøvelseskammer",
     "hsj:adv_opulent_title": "Overdådig øye",
-    "hsj:adv_opulent_desc": "Finn ett overdårig øye i en nedegravd kiste full av skatter",
+    "hsj:adv_opulent_desc": "Finn ett praktfult øye i en nedegravd kiste full av skatter",
     "hsj:adv_queens_title": "Dronningøye",
     "hsj:adv_queens_desc": "Finn dronningøye i en bikube",
     "hsj:adv_spellbound_title": "Trollbundet øye",
@@ -50,6 +50,6 @@
     "hsj:adv_withered_desc": "Skaff det visnede øye fra et beist med tre hoder",
     "hsj:adv_root_desc": "En reise til Enden!",
 
-    "hsj:eye_rejected": "Portalen frastøtte seg øyet... Mektigere øyne kreves...",
-    "hsj:loaded":"lastet!"
+    "hsj:eye_rejected": "Portalen frastøtte seg øyet... Mektigere øye kreves...",
+    "hsj:loaded":"lastet inn!"
 }
