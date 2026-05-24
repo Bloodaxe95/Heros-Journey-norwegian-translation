@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {"rolls":1, "entries":[{"type":"minecraft:loot_table", "value":"hsj:amber_eye"}]},
+    {"rolls":1, "entries":[{"type":"minecraft:loot_table", "value":"hsj:aquatic_eye"}]},
+    {"rolls":1, "entries":[{"type":"minecraft:loot_table", "value":"hsj:archaic_eye"}]},
+    {"rolls":1, "entries":[{"type":"minecraft:loot_table", "value":"hsj:bound_eye"}]},
+    {"rolls":1, "entries":[{"type":"minecraft:loot_table", "value":"hsj:chimeric_eye"}]},
+    {"rolls":1, "entries":[{"type":"minecraft:loot_table", "value":"hsj:creeping_eye"}]},
+    {"rolls":1, "entries":[{"type":"minecraft:loot_table", "value":"hsj:curious_eye"}]},
+    {"rolls":1, "entries":[{"type":"minecraft:loot_table", "value":"hsj:elder_eye"}]},
+    {"rolls":1, "entries":[{"type":"minecraft:loot_table", "value":"hsj:eldritch_eye"}]},
+    {"rolls":1, "entries":[{"type":"minecraft:loot_table", "value":"hsj:forged_eye"}]},
+    {"rolls":1, "entries":[{"type":"minecraft:loot_table", "value":"hsj:golden_eye"}]},
+    {"rolls":1, "entries":[{"type":"minecraft:loot_table", "value":"hsj:ominous_eye"}]},
+    {"rolls":1, "entries":[{"type":"minecraft:loot_table", "value":"hsj:opulent_eye"}]},
+    {"rolls":1, "entries":[{"type":"minecraft:loot_table", "value":"hsj:queens_eye"}]},
+    {"rolls":1, "entries":[{"type":"minecraft:loot_table", "value":"hsj:spellbound_eye"}]},
+    {"rolls":1, "entries":[{"type":"minecraft:loot_table", "value":"hsj:withered_eye"}]}
+  ]
+}

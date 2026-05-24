@@ -5,7 +5,7 @@ function hsj:use/get_data with storage hsj:temp eye
 function hsj:use/check_duplicate with storage hsj:temp eye
 execute if score $found_duplicate hsj.dummy matches 1 run return fail
 
-execute unless entity @n[tag=hsj.display,distance=..10] run function hsj:remove/start
+execute unless entity @n[tag=hsj.eye_display,distance=..10] run function hsj:remove/start
 
 execute if block ~ ~ ~ minecraft:end_portal_frame[facing=north] run function hsj:use/direction/north
 execute if block ~ ~ ~ minecraft:end_portal_frame[facing=east] run function hsj:use/direction/east
@@ -16,3 +16,7 @@ playsound minecraft:block.end_portal_frame.fill block @a ~ ~ ~ 1 1
 particle minecraft:smoke ~ ~0.3 ~ 0.1 0.1 0.1 0.01 10
 
 function hsj:use/macro with storage hsj:temp eye
+
+#check if filled
+execute store result score $eye_count hsj.dummy run execute if entity @e[tag=hsj.eye_display,distance=..10]
+execute if score $eye_count hsj.dummy matches 12.. run function hsj:portal/start
