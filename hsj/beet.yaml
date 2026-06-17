@@ -1,13 +1,19 @@
 data_pack:
   load: .
+  min_format: [107,1]
+  max_format: [107,1]
 
 resource_pack:
   load:
     - .
+  min_format: [88,0]
+  max_format: [88,0]
 
 pipeline:
-  - hsj.plugins.release
   - mecha
 
-version: 2.0.2
-name: HerosJourney
+"description": [
+  {"text":"\ud83d\udd25 Hero's Journey \ud83d\udd25", "color":"#e079fa"},
+  {"text":"\n"},
+  {"text":"A journey to The End","color":"#7e7e7e"}
+]
